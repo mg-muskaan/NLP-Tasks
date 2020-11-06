@@ -9,4 +9,5 @@ Task 4: Gender Features, Magnus Opus
 
 Task 5: Name entity recognition
 
-Task 6: Entity detection using Chunking and Gettysburg address
+Task 6: Entity detection using Chunking
+
